@@ -1,7 +1,8 @@
 #include "binary_trees.h"
 
 /**
- * recursive_height - a function that measures the height of a binary tree
+ * recursive_height - a function that measures the height of
+ * a binary tree
  *
  * @tree: tree root
  * Return: height
@@ -42,7 +43,8 @@ int binary_tree_balance(const binary_tree_t *tree)
 }
 
 /**
- * balance_height - a function that measures height of a binary tree recursively.
+ * balance_height - a function that measures height of a
+ * binary tree recursively.
  * @tree: root pointer
  * Return: height.
  */
